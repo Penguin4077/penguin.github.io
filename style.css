@@ -1,0 +1,28 @@
+@font-face{
+    font-family: "Segoe UI Variable";
+    src: url("SegoeUIVF.ttf") format("truetype");
+}
+
+body {
+    font-family: "Segoe UI Variable";
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #c9c9c9;
+}
+
+.darkmode {
+    background-color: black;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    color: #293BFD
+}
+
+button {
+    border: 0px solid #c9c9c9;
+}
